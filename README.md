@@ -11,3 +11,5 @@ eu usei esse client e senti que faltava algumas funções e outras estavam ruins
 - **Build:** `./gradlew build` (JDK 21), jar em `build/libs/` ou em realeases do repostorio
 
 - bom jogo (não me responsabilizo pelo banimento qualquer outra punição aplicada a sua conta. Use por conta e risco pivete.)
+
+- (1.21.1)
